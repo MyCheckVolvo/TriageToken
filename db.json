@@ -1,3 +1,6 @@
 {
-  "token": "test"
+  "data": 
+  { 
+    "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjAifQ.eyJzY29wZSI6W10sImNsaWVudF9pZCI6IkdEU1AiLCJ1c2VybmFtZSI6InIzODYzODMiLCJleHAiOjE1ODQ2MzY2MTl9.NRBQ6sNaU6uL0z6sMKx8rxXvgpgzLdavoa8Bs3MbvJUWBXBkYiFV6kyvOeloKJmSEptrSg04ZR9SorigKqgBBPqRsEtMHUCFLfmtyjLkwZ6l6wO-5GZ_140rYk1hgx8sdFsuFgVc51qxvxw3uUUZ1WW0Mf16pYI6oRdFdC_zydr5E3gX4VGpb_v-wQXBzetjVp4PkR8JhHmSBZDedqRKY6ggBOi_lw_CpLq10hANKUg6kbGQhsBXRIxCG2D6m0W3IkBRsKW0wr_oeljpSP4B1gpBH02CXzuvDH6qQla86lWIvGA09zKhM8dGstlu0LfJtMsz0_GCDFCxdIu4OMssqA"
+  }
 }
